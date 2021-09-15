@@ -1,0 +1,6 @@
+[submodule "GenSMBIOS"]
+	path = GenSMBIOS
+	url = https://github.com/corpnewt/GenSMBIOS
+[submodule "MountEFI"]
+	path = MountEFI
+	url = https://github.com/corpnewt/MountEFI
