@@ -6,6 +6,7 @@
 
 
 ## Status
+![About](About.png)
 
 
 ## Hardware
@@ -23,22 +24,27 @@
 ## Firmware
 | Driver       |         Version |
 | :------------| --------------: |
-| HfsPlus      | IM201 and IM161 |
-| OpenRuntime  |           0.7.3 |
+| [HfsPlus](https://github.com/acidanthera/OcBinaryData/blob/master/Drivers/HfsPlus.efi)      | IM201 and IM161 |
+| [OpenRuntime](https://github.com/acidanthera/OpenCorePkg/releases)  |           0.7.3 |
 
 
 ## Kexts
 
-| Package                  | Version |
-| :----------------------- | ------: |
-| VirtualSMC               |   1.2.7 |
-| Lilu                     |   1.5.6 |
-| WhateverGreen            |   1.5.3 |
-| AppleALC                 |   1.6.4 |
-| RealtekRTL8111           |   2.4.2 |
-| AirportBcrmFixup         |   2.1.3 |
-| AppleMCEReporterDisabler |   1.2.0 |
-| NVMeFix                  |   1.0.9 |
+| Package                    | Version |
+| :------------------------- | ------: |
+| [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases)                 |   1.2.7 |
+| [Lilu](https://github.com/acidanthera/Lilu/releases)                       |   1.5.6 |
+| [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)              |   1.5.3 |
+| [AppleALC](https://github.com/acidanthera/AppleALC/releases)                   |   1.6.4 |
+| [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)             |   2.4.2 |
+| [AirportBcrmFixup](https://github.com/acidanthera/AirportBrcmFixup/releases)           |   2.1.3 |
+| [AppleMCEReporterDisabler](https://github.com/acidanthera/bugtracker/files/3703498/AppleMCEReporterDisabler.kext.zip)   |   1.2.0 |
+| [NVMeFix](https://github.com/acidanthera/NVMeFix/releases)                    |   1.0.9 |
+| [AMDRyzenCPUPowerManagement](https://github.com/trulyspinach/SMCAMDProcessor/releases) |     0.7 |
+| [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor/releases)            |     0.7 |
+| [CtlnaAHCIPort](https://github.com/dortania/OpenCore-Install-Guide/blob/master/extra-files/CtlnaAHCIPort.kext.zip)              |         |
+| [USBToolBox](https://github.com/USBToolBox/kext/releases)                 |   1.1.0 |
+| [UTBMap](https://github.com/USBToolBox/kext/releases)                     |     0.7 |
 
 
 ## SSDTs
@@ -50,7 +56,7 @@
 
 ## config.plist
 
-Based on [this guide](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html)
+Based on the [Ryzen and Threadripper(17h and 19h) Guide](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html)
 
 
 #### SMBIOS
