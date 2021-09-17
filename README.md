@@ -6,6 +6,12 @@
 
 
 ## Status
+
+- ✅ Graphics
+- ✅ iServices
+- ✅ USB
+- ✅ Audio
+
 ![About](About.png)
 
 
@@ -19,6 +25,7 @@
 | SSD      |         Samsung 970 Evo Plus NVMe |
 | Board    |                    MSI B550 A-Pro |
 | Ethernet |              RTL8111H Gigabit LAN |
+| Audio    |      Realtek® ALC892/ALC897 Codec |
 
 
 ## Firmware
