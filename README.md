@@ -45,6 +45,7 @@
 | [CtlnaAHCIPort](https://github.com/dortania/OpenCore-Install-Guide/blob/master/extra-files/CtlnaAHCIPort.kext.zip)              |         |
 | [USBToolBox](https://github.com/USBToolBox/kext/releases)                 |   1.1.0 |
 | [UTBMap](https://github.com/USBToolBox/kext/releases)                     |     0.7 |
+| [RestrictEvents](https://github.com/acidanthera/RestrictEvents/releases)             |   1.0.4 |
 
 
 ## SSDTs
